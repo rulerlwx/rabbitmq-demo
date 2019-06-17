@@ -24,6 +24,10 @@
     <modules>
         <module>rabbitmq-direct-consumer</module>
         <module>rabbitmq-direct-provider</module>
+        <module>rabbitmq-topic-provider</module>
+        <module>rabbitmq-topic-consumer</module>
+        <module>rabbitmq-fanout-consumer</module>
+        <module>rabbitmq-fanout-provider</module>
     </modules>
 
 </project>
